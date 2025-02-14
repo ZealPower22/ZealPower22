@@ -1,13 +1,14 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; text-align: left;">
- I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **Web Development**. Currently, I’m working on
-         mastering **Full-Stack Development** and exploring the world of **AI**. I’m also an advocate for **open-source** and love 
-         contributing to projects that make a difference.
-  </div>
-  <div>
-    <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="Computer Work GIF" width="150"/>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td style="text-align: left; width: 70%;">
+      I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **Web Development**. Currently, I’m working on mastering **Full-Stack Development** and exploring the world of **AI**. I’m also an advocate for **open-source** and love contributing to projects that make a difference.
+    </td>
+    <td style="text-align: right; width: 30%;">
+      <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="Computer Work GIF" width="200"/>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 📊 GitHub Stats
