@@ -5,7 +5,7 @@ I’m also an advocate for **open-source** and love contributing to projects tha
 
 ## 📊 GitHub Stats
 
-![ZealPower22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZealPower22&show_icons=true&count_private=true&theme=radical)   ![Computer Work GIF](https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif)
+![ZealPower22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZealPower22&show_icons=true&count_private=true&theme=radical)          ![Computer Work GIF](https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif)
 
 
 
