@@ -1,11 +1,11 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: left;">
   <pre>  I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **Web Development**. Currently, I’m working on
-    mastering **Full-Stack Development** and exploring the world of **AI**. I’m also an advocate for **open-source** and love 
-    contributing to projects that make a difference.</pre>
+         mastering **Full-Stack Development** and exploring the world of **AI**. I’m also an advocate for **open-source** and love 
+         contributing to projects that make a difference.</pre>
   </div>
   <div>
-    <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="Computer Work GIF" width="200"/>
+    <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="Computer Work GIF" width="150"/>
   </div>
 </div>
 
