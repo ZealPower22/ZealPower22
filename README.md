@@ -13,6 +13,7 @@ I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **We
 
 ![Learning Progress](https://progress-bar.dev/60/?title=Full-Stack%20Development)
 
+
 ## 🌟 When I'm not coding:
 - I enjoy solving **puzzles** and **playing chess**.
 - Exploring **AI innovations** and writing about new tech trends.
