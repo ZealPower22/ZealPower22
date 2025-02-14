@@ -1,5 +1,6 @@
 I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **Web Development**. Currently, I’m working on mastering **Full-Stack Development** and exploring the world of **AI**. I’m also an advocate for **open-source** and love contributing to projects that make a difference.
 
+![Computer Work GIF](https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif)
 
 ## 📊 GitHub Stats
 
@@ -12,7 +13,6 @@ I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **We
 ## 📈 Progress Tracker
 
 ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-60%25-orange)
-
 
 ## 🌟 When I'm not coding:
 - I enjoy solving **puzzles** and **playing chess**.
