@@ -14,20 +14,6 @@ I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **We
 ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-60%25-orange)
 
 
-## Tech Stack
-  - ![Python](https://img.shields.io/badge/python-%23ffcd38.svg?logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-  - ![C Programming](https://img.shields.io/badge/C-Programming-blue)
-  - ![Java](https://img.shields.io/badge/java-%23FF0000.svg?logo=java&logoColor=white)
-  - ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-  - ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg)
-  - ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-  - ![React](https://img.shields.io/badge/react-%2300D8FF.svg?logo=react&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?logo=mysql&logoColor=white)
-  - ![Git](https://img.shields.io/badge/git-%23F1502F.svg?logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white)
-
 ## 🌟 When I'm not coding:
 - I enjoy solving **puzzles** and **playing chess**.
 - Exploring **AI innovations** and writing about new tech trends.
