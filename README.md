@@ -11,7 +11,7 @@ I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **We
 
 ## 📈 Progress Tracker
 
-![Learning Progress](https://progress-bar.dev/60/?title=Full-Stack%20Development)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-60%25-orange)
 
 
 ## 🌟 When I'm not coding:
