@@ -1,17 +1,23 @@
+I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **Web Development**. Currently, I’m working on mastering **Full-Stack Development** and exploring the world of **AI**. I’m also an advocate for **open-source** and love contributing to projects that make a difference.
+
+
 ## 📊 GitHub Stats
 
-![Udiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
- 
+![ZealPower22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZealPower22&show_icons=true&count_private=true&theme=radical)
+
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZealPower22&theme=radical)
 
-## 💻 Skills & Tools
+## 📈 Progress Tracker
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Learning Progress](https://progress-bar.dev/60/?title=Full-Stack%20Development)
+
+## 🌟 When I'm not coding:
+- I enjoy solving **puzzles** and **playing chess**.
+- Exploring **AI innovations** and writing about new tech trends.
+- Hiking and photography are my go-to activities for relaxation!
+
 
 
 <!---
