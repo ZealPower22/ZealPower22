@@ -1,6 +1,5 @@
-| Content                                                                                       | ![Computer Work GIF](https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif) |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **Web Development**. Currently, I’m working on mastering **Full-Stack Development** and exploring the world of **AI**. I’m also an advocate for **open-source** and love contributing to projects that make a difference. |                                                                                 |
+                                                                                                 ![Computer Work GIF](https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif) 
+ I'm a **B.Tech student** with a passion for **Artificial Intelligence** and **Web Development**. Currently, I’m working on mastering **Full-Stack Development** and exploring the world of **AI**. I’m also an advocate for **open-source** and love contributing to projects that make a difference.                                                                              
 
 
 ## 📊 GitHub Stats
