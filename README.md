@@ -22,6 +22,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZealPower22&theme=radical)
 
 
+
 ## 📈 Progress Tracker
 
 ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-60%25-orange)
