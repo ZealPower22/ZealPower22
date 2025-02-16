@@ -19,8 +19,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZealPower22&show_icons=true&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZealPower22&theme=radical)
 
 
 
