@@ -13,13 +13,14 @@
 
 ## 📊 GitHub Stats
 
-![ZealPower22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZealPower22&show_icons=true&count_private=true&theme=radical)        
+![ZealPower22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZealPower22&show_icons=true&count_private=true&theme=radical)
+       
 
 
 
 ## 🔥 Streak Stats
+![ZealPower22's GitHub Streak](https://streak-stats.demolab.com/?user=ZealPower22&theme=radical&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZealPower22&theme=radical)
 
 
 
